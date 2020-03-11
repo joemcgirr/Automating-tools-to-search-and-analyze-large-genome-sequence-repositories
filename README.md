@@ -1,5 +1,8 @@
 # Automating-tools-to-search-and-analyze-large-genome-sequence-repositories
 
+## Motivation
+As more strains of hCoV-19 are sequenced, various tools have been developed to monitor how it spreads and evolves. However, many sequences are not yet publicly available. Our goal is to combine publicly available hCoV-19 SRA sequences with the Nextstrain tool (https://github.com/nextstrain/ncov).
+
 ## Analyzing publicly available hCoV-19 SRA reads with Nextstrain
 1. Identify metadata to match Nexstrain input
 2. Download SRA data
